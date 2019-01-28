@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">PKM Application</string>
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Click to login</string>
+    <string name="action_settings">Sign Out</string>
+    <string name="one">Setup</string>
+    <string name="five">Help</string>
+    <string name="four">Search</string>
+    <string name="three">Share</string>
+    <string name="two">Build</string>
+    <string name="nickname">Nick Name</string>
+    <string name="organization">Organization</string>
+    <string name="mobile">Mobile</string>
+    <string name="job">Job</string>
+    <string name="sharewith">ShareWith</string>
+    <string name="sharekb">Share Knowledge</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="changepassword">Change Password</string>
+    <string name="currentpassword">Current Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="repassword">Confirm Password</string>
+    <string name="reset">Reset</string>
+    <string name="share">Share</string>
+    <string name="ic_laptop" />
+    <string name="confirmpassword">Confirm Password</string>
+    <string-array name="spinnerJob">
+        <item>Assistant</item>
+        <item>Lead</item>
+        <item>Manager</item>
+        <item>CEO</item>
+    </string-array>
+</resources>
